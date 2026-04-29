@@ -1,4 +1,4 @@
-# Closed Network — Resources
+# Closed Network — Flock Resources
 
 Open-source briefing packets, FOIA templates, and citizen-action toolkits from the **Closed Network Privacy Podcast** — the show for people who'd like to keep some.
 
