@@ -319,4 +319,4 @@ Every claim in this packet traces back to a public source. The list below is wha
 *The Closed Network Privacy Podcast — for people who'd like to keep some.*
 *Hosted by Simon. New episodes weekly.*
 
-*This packet may be freely copied, printed, redistributed, and adapted by residents, journalists, advocacy groups, and elected officials. Attribution appreciated but not required. If you adapt it for your city, please share back what you changed — closednetwork@[domain].*
+*This packet may be freely copied, printed, redistributed, and adapted by residents, journalists, advocacy groups, and elected officials. Attribution appreciated but not required. If you adapt it for your city, please share back what you changed — simon@closednetwork.io.*
