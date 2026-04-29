@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# iCloud sync artifacts
+.iCloud
+.icloud
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Drafts and working files
+drafts/
+*.draft.md
+*~draft
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temp / backup
+*.tmp
+*.bak
+*.old
